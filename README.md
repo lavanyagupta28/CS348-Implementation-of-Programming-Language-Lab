@@ -1,4 +1,4 @@
-# Compiler Lab (CS348)
+# IPLL (CS348)
 
 A collection of laboratory assignments completed as part of the **Implementation of Programming Languages Laboratory (CS348)** at IIT Guwahati. The assignments introduce the core stages of programming language implementation, beginning with x86 assembly programming and progressing through assembler construction, lexical analysis, and syntax analysis for a subset of the C programming language (nanoC).
 
